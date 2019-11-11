@@ -9130,7 +9130,8 @@ h1, h2, h3, h4, h5,
         color: #fff; }
 
 .services-section {
-  padding: 0; }
+  padding: 0;
+margin-bottom: 7%; }
 
 .services {
   -moz-transition: all 0.3s ease;
@@ -9223,16 +9224,19 @@ textarea.form-control {
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 6em 0; }
+     }
 
-.ftco-no-pt {
-  padding-top: 0 !important; }
+
 
 .ftco-no-pb {
-  padding-bottom: 0 !important; }
+  
+  margin-bottom: 7%;
+}
 
 .ftco-bg-dark {
-  background: #3c312e; }
+  background: #3c312e; 
+}
 
 .team {
   width: 100%;
