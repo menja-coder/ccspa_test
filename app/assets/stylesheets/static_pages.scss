@@ -1,3 +1,34 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.services-section{
+    margin-bottom: 7%;
+}
+
+
+.heading-sections h1.big{
+    position: absolute;
+    top: -28px;
+    left: -8px;
+    right: -72px;
+    font-family: "Pacifico", cursive;
+    color: rgba(0, 0, 0, 0.05);
+    color: #f7f5f6;
+    font-size: 120px;
+    z-index: -1;
+}
+
+.subheadings{
+    font-size: 12px;
+    display: block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    color: red;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+
+.py-3{
+    margin-bottom: 1% !important;
+}

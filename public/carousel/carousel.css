@@ -23,6 +23,7 @@ p {
   max-width: 500px;
   margin: auto;
 }
+
 a:link,
 a:hover,
 a:active,
@@ -89,6 +90,8 @@ a:hover {
   left: 50%;
   display: #000;
 }
+
+
 .tile__details:after {
   margin-top: -25px;
   margin-left: -25px;

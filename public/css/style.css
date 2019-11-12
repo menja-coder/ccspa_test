@@ -8152,10 +8152,10 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease;
   color: #f18c8e; }
-  a:hover, a:focus {
-    text-decoration: none;
-    color: #f18c8e;
-    outline: none !important; }
+a:hover, a:focus {
+  text-decoration: none;
+  color: #f18c8e;
+  outline: none !important; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
@@ -9131,7 +9131,8 @@ h1, h2, h3, h4, h5,
 
 .services-section {
   padding: 0;
-margin-bottom: 7%; }
+ 
+ }
 
 .services {
   -moz-transition: all 0.3s ease;
@@ -9513,9 +9514,9 @@ textarea.form-control {
   position: relative; }
   .heading-section h1.big {
     position: absolute;
-    top: -80px;
-    left: 0;
-    right: 0;
+    top: -28px;
+    left: -8px;
+    right: -72px;
     font-family: "Pacifico", cursive;
     color: rgba(0, 0, 0, 0.05);
     color: #f7f5f6;
