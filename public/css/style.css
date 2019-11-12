@@ -74,7 +74,8 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 5rem; 
+  padding-bottom: 5%;}
 
 abbr[title],
 abbr[data-original-title] {
@@ -9043,7 +9044,8 @@ h1, h2, h3, h4, h5,
     .pricing-entry {
       margin-bottom: 4em; } }
   .pricing-entry > div {
-    padding: 20px; }
+    /* padding: 20px; */
+       width: auto; }
     .pricing-entry > div p {
       margin-bottom: 0; }
   .pricing-entry h3 {
