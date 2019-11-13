@@ -11,9 +11,7 @@ html {
   align-items: center;
   width: 100%;
 } */
-* {
-  box-sizing: border-box;
-}
+
 h1,
 p {
   text-align: center;
@@ -39,7 +37,7 @@ a:hover {
 .contain {
   width: 100%;
 }
-.row {
+.carous{
   overflow: scroll;
   width: 100%;
 }
