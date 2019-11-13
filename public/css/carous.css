@@ -1,8 +1,19 @@
+/* body,
+html {
+  padding: 0 10px;
+  margin: 0;
+  background: #0e0f11;
+  color: #ecf0f1;
+  font-family: 'Open Sans', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+} */
 
-* {
-  box-sizing: border-box;
-}
-h1,p {
+h1,
+p {
   text-align: center;
 }
 p {
@@ -23,7 +34,7 @@ a:hover {
 .contain {
   width: 100%;
 }
-.row {
+.carous{
   overflow: scroll;
   width: 100%;
 }
